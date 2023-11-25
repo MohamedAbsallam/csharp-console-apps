@@ -1,0 +1,7 @@
+C:\Users\M E T R O\source\repos\Exercises\Average_Marks\Average_Marks\bin\Debug\Average_Marks.exe.config
+C:\Users\M E T R O\source\repos\Exercises\Average_Marks\Average_Marks\bin\Debug\Average_Marks.exe
+C:\Users\M E T R O\source\repos\Exercises\Average_Marks\Average_Marks\bin\Debug\Average_Marks.pdb
+C:\Users\M E T R O\source\repos\Exercises\Average_Marks\Average_Marks\obj\Debug\Average_Marks.csproj.AssemblyReference.cache
+C:\Users\M E T R O\source\repos\Exercises\Average_Marks\Average_Marks\obj\Debug\Average_Marks.csproj.CoreCompileInputs.cache
+C:\Users\M E T R O\source\repos\Exercises\Average_Marks\Average_Marks\obj\Debug\Average_Marks.exe
+C:\Users\M E T R O\source\repos\Exercises\Average_Marks\Average_Marks\obj\Debug\Average_Marks.pdb

@@ -1,0 +1,7 @@
+C:\Users\M E T R O\source\repos\Exercises\Print_3_Nums_Sum\Print_3_Nums_Sum\bin\Debug\Print_3_Nums_Sum.exe.config
+C:\Users\M E T R O\source\repos\Exercises\Print_3_Nums_Sum\Print_3_Nums_Sum\bin\Debug\Print_3_Nums_Sum.exe
+C:\Users\M E T R O\source\repos\Exercises\Print_3_Nums_Sum\Print_3_Nums_Sum\bin\Debug\Print_3_Nums_Sum.pdb
+C:\Users\M E T R O\source\repos\Exercises\Print_3_Nums_Sum\Print_3_Nums_Sum\obj\Debug\Print_3_Nums_Sum.csproj.AssemblyReference.cache
+C:\Users\M E T R O\source\repos\Exercises\Print_3_Nums_Sum\Print_3_Nums_Sum\obj\Debug\Print_3_Nums_Sum.csproj.CoreCompileInputs.cache
+C:\Users\M E T R O\source\repos\Exercises\Print_3_Nums_Sum\Print_3_Nums_Sum\obj\Debug\Print_3_Nums_Sum.exe
+C:\Users\M E T R O\source\repos\Exercises\Print_3_Nums_Sum\Print_3_Nums_Sum\obj\Debug\Print_3_Nums_Sum.pdb

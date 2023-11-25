@@ -1,0 +1,7 @@
+C:\Users\M E T R O\source\repos\Exercises\Print_half_Num\Print_half_Num\bin\Debug\Print_half_Num.exe.config
+C:\Users\M E T R O\source\repos\Exercises\Print_half_Num\Print_half_Num\bin\Debug\Print_half_Num.exe
+C:\Users\M E T R O\source\repos\Exercises\Print_half_Num\Print_half_Num\bin\Debug\Print_half_Num.pdb
+C:\Users\M E T R O\source\repos\Exercises\Print_half_Num\Print_half_Num\obj\Debug\Print_half_Num.csproj.AssemblyReference.cache
+C:\Users\M E T R O\source\repos\Exercises\Print_half_Num\Print_half_Num\obj\Debug\Print_half_Num.csproj.CoreCompileInputs.cache
+C:\Users\M E T R O\source\repos\Exercises\Print_half_Num\Print_half_Num\obj\Debug\Print_half_Num.exe
+C:\Users\M E T R O\source\repos\Exercises\Print_half_Num\Print_half_Num\obj\Debug\Print_half_Num.pdb

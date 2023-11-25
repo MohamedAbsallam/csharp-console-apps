@@ -1,0 +1,7 @@
+C:\Users\M E T R O\source\repos\Exercises\Print_Users_Info\Print_Users_Info\bin\Debug\Print_Users_Info.exe.config
+C:\Users\M E T R O\source\repos\Exercises\Print_Users_Info\Print_Users_Info\bin\Debug\Print_Users_Info.exe
+C:\Users\M E T R O\source\repos\Exercises\Print_Users_Info\Print_Users_Info\bin\Debug\Print_Users_Info.pdb
+C:\Users\M E T R O\source\repos\Exercises\Print_Users_Info\Print_Users_Info\obj\Debug\Print_Users_Info.csproj.AssemblyReference.cache
+C:\Users\M E T R O\source\repos\Exercises\Print_Users_Info\Print_Users_Info\obj\Debug\Print_Users_Info.csproj.CoreCompileInputs.cache
+C:\Users\M E T R O\source\repos\Exercises\Print_Users_Info\Print_Users_Info\obj\Debug\Print_Users_Info.exe
+C:\Users\M E T R O\source\repos\Exercises\Print_Users_Info\Print_Users_Info\obj\Debug\Print_Users_Info.pdb

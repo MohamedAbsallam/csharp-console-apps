@@ -1,0 +1,7 @@
+C:\Users\M E T R O\source\repos\Exercises\Calc_Circle_Area\Calc_Circle_Area\bin\Debug\Calc_Circle_Area.exe.config
+C:\Users\M E T R O\source\repos\Exercises\Calc_Circle_Area\Calc_Circle_Area\bin\Debug\Calc_Circle_Area.exe
+C:\Users\M E T R O\source\repos\Exercises\Calc_Circle_Area\Calc_Circle_Area\bin\Debug\Calc_Circle_Area.pdb
+C:\Users\M E T R O\source\repos\Exercises\Calc_Circle_Area\Calc_Circle_Area\obj\Debug\Calc_Circle_Area.csproj.AssemblyReference.cache
+C:\Users\M E T R O\source\repos\Exercises\Calc_Circle_Area\Calc_Circle_Area\obj\Debug\Calc_Circle_Area.csproj.CoreCompileInputs.cache
+C:\Users\M E T R O\source\repos\Exercises\Calc_Circle_Area\Calc_Circle_Area\obj\Debug\Calc_Circle_Area.exe
+C:\Users\M E T R O\source\repos\Exercises\Calc_Circle_Area\Calc_Circle_Area\obj\Debug\Calc_Circle_Area.pdb

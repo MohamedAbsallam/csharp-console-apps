@@ -1,0 +1,7 @@
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Salary\Calc_Your_Salary\bin\Debug\Calc_Your_Salary.exe.config
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Salary\Calc_Your_Salary\bin\Debug\Calc_Your_Salary.exe
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Salary\Calc_Your_Salary\bin\Debug\Calc_Your_Salary.pdb
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Salary\Calc_Your_Salary\obj\Debug\Calc_Your_Salary.csproj.AssemblyReference.cache
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Salary\Calc_Your_Salary\obj\Debug\Calc_Your_Salary.csproj.CoreCompileInputs.cache
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Salary\Calc_Your_Salary\obj\Debug\Calc_Your_Salary.exe
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Salary\Calc_Your_Salary\obj\Debug\Calc_Your_Salary.pdb

@@ -1,0 +1,7 @@
+C:\Users\M E T R O\source\repos\Exercises\Calc_Triangle_Area\Calc_Triangle_Area\bin\Debug\Calc_Triangle_Area.exe.config
+C:\Users\M E T R O\source\repos\Exercises\Calc_Triangle_Area\Calc_Triangle_Area\bin\Debug\Calc_Triangle_Area.exe
+C:\Users\M E T R O\source\repos\Exercises\Calc_Triangle_Area\Calc_Triangle_Area\bin\Debug\Calc_Triangle_Area.pdb
+C:\Users\M E T R O\source\repos\Exercises\Calc_Triangle_Area\Calc_Triangle_Area\obj\Debug\Calc_Triangle_Area.csproj.AssemblyReference.cache
+C:\Users\M E T R O\source\repos\Exercises\Calc_Triangle_Area\Calc_Triangle_Area\obj\Debug\Calc_Triangle_Area.csproj.CoreCompileInputs.cache
+C:\Users\M E T R O\source\repos\Exercises\Calc_Triangle_Area\Calc_Triangle_Area\obj\Debug\Calc_Triangle_Area.exe
+C:\Users\M E T R O\source\repos\Exercises\Calc_Triangle_Area\Calc_Triangle_Area\obj\Debug\Calc_Triangle_Area.pdb

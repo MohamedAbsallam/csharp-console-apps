@@ -1,0 +1,7 @@
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Age\Calc_Your_Age\bin\Debug\Calc_Your_Age.exe.config
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Age\Calc_Your_Age\bin\Debug\Calc_Your_Age.exe
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Age\Calc_Your_Age\bin\Debug\Calc_Your_Age.pdb
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Age\Calc_Your_Age\obj\Debug\Calc_Your_Age.csproj.AssemblyReference.cache
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Age\Calc_Your_Age\obj\Debug\Calc_Your_Age.csproj.CoreCompileInputs.cache
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Age\Calc_Your_Age\obj\Debug\Calc_Your_Age.exe
+C:\Users\M E T R O\source\repos\Exercises\Calc_Your_Age\Calc_Your_Age\obj\Debug\Calc_Your_Age.pdb
